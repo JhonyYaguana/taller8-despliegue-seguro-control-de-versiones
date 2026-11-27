@@ -105,13 +105,12 @@ export default function App() {
         <div className="hero-inner">
           <div className="brand-row">
             <span className="brand-logo" aria-hidden="true">🐾</span>
-            <span className="brand-name">Huellitas</span>
+            <span className="brand-name">PET-FY</span>
             <span className="brand-tag">Adopción Responsable</span>
           </div>
           <h1>Encuentra a tu próximo mejor amigo</h1>
           <p className="hero-subtitle">
-            Explora perros y gatos listos para un nuevo hogar, filtra por tamaño o especie y
-            envía tu solicitud de adopción en minutos.
+            Explora perros y gatos listos para un nuevo hogar, filtra por tamaño o especie y envía tu solicitud de adopción en minutos.
           </p>
 
           <div className="stats-bar">
