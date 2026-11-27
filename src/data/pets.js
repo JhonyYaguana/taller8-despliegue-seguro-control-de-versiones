@@ -1,0 +1,110 @@
+export const PETS_DATA = [
+  {
+    id: 1,
+    name: "Luna",
+    species: "Perro",
+    breed: "Mestiza mediana",
+    age: "1 año y 4 meses",
+    size: "Mediano",
+    gender: "Hembra",
+    location: "Durán, Guayas",
+    vaccinated: true,
+    sterilized: true,
+    energy: "Media-Alta",
+    emoji: "🐕",
+    accentBg: "#fef3c7",
+    description:
+      "Luna es juguetona, cariñosa y se lleva muy bien con otros perros. Ideal para familias activas que disfruten de paseos diarios.",
+    traits: ["Sociable", "Juguetona", "Paseadora"]
+  },
+  {
+    id: 2,
+    name: "Milo",
+    species: "Gato",
+    breed: "Criollo europeo",
+    age: "8 meses",
+    size: "Pequeño",
+    gender: "Macho",
+    location: "Guayaquil, Guayas",
+    vaccinated: true,
+    sterilized: true,
+    energy: "Media",
+    emoji: "🐈",
+    accentBg: "#e0e7ff",
+    description:
+      "Milo es curioso y le encanta dormir cerca de la ventana. Buscador profesional de caricias tras su hora de juego con ratoncitos.",
+    traits: ["Tranquilo", "Cariñoso", "Apto departamento"]
+  },
+  {
+    id: 3,
+    name: "Rocky",
+    species: "Perro",
+    breed: "Labrador mestizo",
+    age: "3 años",
+    size: "Grande",
+    gender: "Macho",
+    location: "Samborondón, Guayas",
+    vaccinated: true,
+    sterilized: true,
+    energy: "Media",
+    emoji: "🦮",
+    accentBg: "#dcfce7",
+    description:
+      "Rocky es noble, obediente y muy protector. Ya sabe comandos básicos y disfruta mucho de la compañía humana.",
+    traits: ["Noble", "Obediente", "Leal"]
+  },
+  {
+    id: 4,
+    name: "Canela",
+    species: "Gato",
+    breed: "Carey / Calico",
+    age: "2 años",
+    size: "Pequeño",
+    gender: "Hembra",
+    location: "Durán, Guayas",
+    vaccinated: true,
+    sterilized: true,
+    energy: "Baja-Media",
+    emoji: "🐱",
+    accentBg: "#fce7f3",
+    description:
+      "Canela es dulce y observadora. Prefiere hogares tranquilos donde pueda descansar en lugares altos y recibir mimos suaves.",
+    traits: ["Dulce", "Independiente", "Tranquila"]
+  },
+  {
+    id: 5,
+    name: "Toby",
+    species: "Perro",
+    breed: "French poodle mestizo",
+    age: "5 meses",
+    size: "Pequeño",
+    gender: "Macho",
+    location: "Guayaquil, Guayas",
+    vaccinated: true,
+    sterilized: false,
+    energy: "Alta",
+    emoji: "🐶",
+    accentBg: "#ffedd5",
+    description:
+      "Toby es un cachorro lleno de energía y ganas de aprender. Necesita paciencia, rutinas y mucho cariño para crecer feliz.",
+    traits: ["Cachorro", "Alegre", "Curioso"]
+  },
+  {
+    id: 6,
+    name: "Nube",
+    species: "Gato",
+    breed: "Angora mestiza",
+    age: "1 año",
+    size: "Pequeño",
+    gender: "Hembra",
+    location: "Milagro, Guayas",
+    vaccinated: true,
+    sterilized: true,
+    energy: "Media",
+    emoji: "🐾",
+    accentBg: "#f3e8ff",
+    description:
+      "Nube tiene un pelaje suave y una mirada expresiva. Es afectuosa con quienes le dan confianza y disfruta de siestas largas.",
+    traits: ["Afectuosa", "Elegante", "Hogareña"]
+  }
+];
